@@ -1,6 +1,4 @@
-Proyecto-2-Lenguajes de Programacion
-
-Proyecto relizado por: Andres Suarez y Samuel Alarcon
+Proyecto-2-Lenguajes de Programacion Proyecto relizado por: Andres Suarez y Samuel Alarcon
 
 Utilizamos el bluej para realizar todo el proyecto.
 

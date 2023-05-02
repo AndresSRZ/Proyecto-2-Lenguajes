@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ListParametersFilter
+comment1.params=filter
+comment1.target=void\ addFilter(java.util.function.Predicate)
+comment2.params=
+comment2.target=java.util.function.Predicate\ getFilter()
+numComments=3
